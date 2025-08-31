@@ -1,5 +1,6 @@
-**The data used in the analysis was obtained from mave analytics repository.
-The code and anaysis for the project is attached in the file above. (Untitled2.ipynb)**
+****The data used in the analysis was obtained from maven analytics repository and is also attached as an excel file above.
+
+The code and anaysis for the project is attached in the file above. (Untitled2.ipynb)****
 
 The analysis explores **coffee shop sales data** to uncover important business insights and support decision-making. Historical transaction records were used to evaluate sales across different dimensions such as time of day, day of the week, monthly patterns, and store locations. The findings highlight purchasing behavior, revenue performance, and demand peaks across various times and locations. Visualizations including line charts, bar graphs, and pie charts make it easier to identify trends and areas that contribute the most to overall sales.
 A **time series forecasting model (SARIMAX)** was also applied to predict future revenues. This helps anticipate demand fluctuations, optimize inventory, and plan more effectively for both peak and off-peak periods. By combining descriptive insights with predictive analysis, the study provides a clear view of past sales patterns while also guiding strategies for sustainable growth in the future. 
